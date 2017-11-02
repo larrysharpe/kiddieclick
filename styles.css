@@ -1,0 +1,39 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+
+#app {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.big_char {
+    font-size: 25em;
+    text-align: center;
+}
+
+button.btn {
+    border: 1px #000 solid;
+    margin: 5px;
+}
+
+.div-sleeve {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.main-head {
+    background: #fff;
+    height: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
